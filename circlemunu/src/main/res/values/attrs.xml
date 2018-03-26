@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleMenu">
+        <attr name="centerX" format="dimension" />
+        <attr name="radius" format="dimension" />
+        <attr name="centerItemRadius" format="dimension" />
+        <attr name="itemRadius" format="dimension" />
+        <attr name="itemTextMargin" format="dimension" />
+        <attr name="backgroundCircleColor" format="color" />
+        <attr name="itemCircleColor" format="color" />
+        <attr name="centerItemDrawable" format="reference" />
+        <attr name="halfCircle" format="boolean" />
+    </declare-styleable>
+</resources>
